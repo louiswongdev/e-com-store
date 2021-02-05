@@ -1,3 +1,3 @@
 export default function ProductsPage() {
-  return <p>Project page!</p>;
+  return <div>Project page!</div>;
 }
